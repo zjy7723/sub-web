@@ -265,7 +265,7 @@ export default {
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
-          { value: "https://app.zjy7722.ml/sub?" },
+          { value: "https://app.zjy7788.xyz/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
           { value: "https://api.wcc.best/sub?" },
