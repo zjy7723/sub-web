@@ -259,7 +259,7 @@ export default {
           { value: "http://192.168.50.5:9500/sub?" },
           { value: "https://app.zjy7788.xyz/sub?" },
           { value: "https://abcrailw.zjy7788.xyz/sub?" },
-          { value: "https://abcde.zjy7788.xyz/sub?" },
+          { value: "https://abab.zjy7788.xyz/subconverter/sub?" },
         ],
         remoteConfig: [
           {
