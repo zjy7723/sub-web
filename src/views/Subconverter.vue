@@ -341,7 +341,7 @@ export default {
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
               },
               {
-                label: "acl4SSR规则_2Z修改版",
+                label: "acl4SSR规则_2Z修改版 肥羊",
                 value:
                   "https://raw.githubusercontent.com/Twoandz9/Clash/main/ACL4SSR_Online_Full_2z.ini"
               },
